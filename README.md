@@ -2,8 +2,6 @@
 
 A simple ASP.NET Core web application for the [ASP.NET Core buildpack][].
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/aspnet-core-helloworld)
-
 ## Run the app locally
 
 1. Install ASP.NET Core by following the [Getting Started][] instructions
